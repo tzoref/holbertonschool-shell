@@ -7,3 +7,4 @@
 5-execute: Adds execute permission for the owner of hello.
 6-multiple permissions: Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 7-everybody: Adds execution permission to the owner, the group owner and the other users, to the file hello.
+8-James_Bond: Sets hello permissions to 007 (no permissions for owner or group; full permissions for others).
