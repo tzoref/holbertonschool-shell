@@ -9,3 +9,4 @@
 6-third_line: Displays the third line of iacta.
 7-file: Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8-cwd_state: Writes the current directory listing to ls_cwd_content.
+9-duplicate_last_line: Appends the last line of iacta to the file.
