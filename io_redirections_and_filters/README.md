@@ -7,3 +7,5 @@
 4-lastlines: Displays the last 10 lines of /etc/passwd.
 5-firstlines: Displays the first 10 lines of /etc/passwd.
 6-third_line: Displays the third line of iacta.
+7-file: Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+8-cwd_state: Writes the current directory listing to ls_cwd_content.
